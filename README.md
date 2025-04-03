@@ -31,5 +31,6 @@ or,
 6. Now enter Firebase API Key
 7. Other things you can leave it as default or you can give value according to you.
 
+## Screenshots
 
 ![poc](signup.png)
