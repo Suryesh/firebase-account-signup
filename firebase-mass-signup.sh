@@ -146,7 +146,7 @@ main() {
 # Function to perform signup
 signup() {
     local i=$1
-    local email="fakeuser856335${i}@example.com"
+    local email="fakeuser856335675${i}@example.com"
     local password="P@ssw0rd123"
     
     # Get random user agent
